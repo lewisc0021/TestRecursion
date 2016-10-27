@@ -1,0 +1,6 @@
+c:\users\lewis\documents\visual studio 2015\Projects\ClassPractice2_10-27\ClassPractice2_10-27\bin\Debug\ClassPractice2_10-27.exe.config
+c:\users\lewis\documents\visual studio 2015\Projects\ClassPractice2_10-27\ClassPractice2_10-27\bin\Debug\ClassPractice2_10-27.exe
+c:\users\lewis\documents\visual studio 2015\Projects\ClassPractice2_10-27\ClassPractice2_10-27\bin\Debug\ClassPractice2_10-27.pdb
+c:\users\lewis\documents\visual studio 2015\Projects\ClassPractice2_10-27\ClassPractice2_10-27\obj\Debug\ClassPractice2_10-27.csprojResolveAssemblyReference.cache
+c:\users\lewis\documents\visual studio 2015\Projects\ClassPractice2_10-27\ClassPractice2_10-27\obj\Debug\ClassPractice2_10-27.exe
+c:\users\lewis\documents\visual studio 2015\Projects\ClassPractice2_10-27\ClassPractice2_10-27\obj\Debug\ClassPractice2_10-27.pdb
